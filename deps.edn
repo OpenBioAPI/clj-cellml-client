@@ -1,6 +1,6 @@
 {:paths ["src"]
 
  :deps {metosin/spec-tools {:mvn/version "0.7.0"}
-        clj-http            {:mvn/version "3.13.1"}
-        orchestra           {:mvn/version "2017.11.12-1"}
-        cheshire            {:mvn/version "6.1.0"}}}
+        clj-http/clj-http            {:mvn/version "3.13.1"}
+        orchestra/orchestra           {:mvn/version "2017.11.12-1"}
+        cheshire/cheshire            {:mvn/version "6.1.0"}}}
